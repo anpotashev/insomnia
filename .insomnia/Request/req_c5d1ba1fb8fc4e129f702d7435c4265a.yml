@@ -7,7 +7,7 @@ headers: []
 isPrivate: false
 metaSortKey: -1596026418694
 method: GET
-modified: 1596026418693
+modified: 1596026731153
 name: My Request
 parameters: []
 parentId: wrk_6cf6873429e0478583c29c8728b568a6
@@ -18,4 +18,4 @@ settingRebuildPath: true
 settingSendCookies: true
 settingStoreCookies: true
 type: Request
-url: ""
+url: https://clickstream.ru
